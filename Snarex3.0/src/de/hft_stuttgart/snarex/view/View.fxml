@@ -163,7 +163,7 @@
 					<contextMenu>
 						<ContextMenu fx:id="contextMenu">
 							<items>
-								<Menu fx:id="menuSensor" mnemonicParsing="false" text="Sensor...">
+								<Menu fx:id="menuSensor" mnemonicParsing="false" text="Sensor....">
 									<items>
 										<MenuItem fx:id="sensorAdd" mnemonicParsing="false"
 											onAction="#sensorAddClick" text="add" />
